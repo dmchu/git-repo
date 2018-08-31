@@ -4,4 +4,6 @@ x = 5.23225
 
 y = round(x,3)
 
-print(y)
+z = round(x,2)
+
+print(y, z)
