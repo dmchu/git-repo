@@ -2,8 +2,8 @@
 
 x = 5.23225
 
-y = round(x,3)
+y = round(x,2)
 
-z = round(x,2)
+z = round(x,3)
 
-print(y, z)
+print(z, y)
